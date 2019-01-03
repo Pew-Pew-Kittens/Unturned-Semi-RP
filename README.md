@@ -9,5 +9,6 @@ When posting a issue...
 - Specific the Unturned version when the issue occurred
 - The command or action that was done
 - Steps to reproduce the issue
+- (Optional, but highly recommended) The time in Pacific Time of when the issue occurred.
 
 Including this information, it'll help our staff narrow down the issue more effectively.
